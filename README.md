@@ -165,6 +165,6 @@ Gerhard_Schroeder       1.00      1.00      1.00         5
 
 Demonstrasi lengkap mengenai langkah-langkah praktikum, penjelasan kode baris demi baris, dan eksekusi live di VSCode dapat diakses melalui tautan berikut:
 
-👉 [ ]
+👉 [ https://youtu.be/lX8QpkStQfY]
 
 ---
